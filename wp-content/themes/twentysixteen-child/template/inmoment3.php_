@@ -1,0 +1,160 @@
+<?php
+/*
+Template Name: inmoment3 Page
+*/
+get_header(); ?>
+<main>
+<section class="section-solution banner" style="height:1200px !important">
+   <img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/bg-inmoment3.jpg" alt="solution-bg" class="img-bg-banner img-responsive">
+    <div class="container-fluid">
+    <div class="col-md-12 banner-inmoment-text">
+    <div class="row">
+      <h5>Inmoment careers</h5>
+      <h1 class="Software-hading">Canada Family</h1>
+	  <button class="inmomentapply">Apply Now </button>
+    </div>
+    </div>
+	<div class="row home-pattern"></div>
+    </div>
+  </section>
+  
+
+
+<section class="canadatestimonilwrap">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 ">
+<h2>Canada Employee Testimonials</h2>
+<div>
+<div class="col-sm-4">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/wes.jpg" alt="unstates"/>
+<h3>Wes</h3>
+<h5>Customer Success Manager</h5>
+<p>InMoment is a great place to work! I receive full support in anything and everything that I want to do. No matter the idea, concern, or project, I have team around me that is always willing to support. </p>
+</div>
+<div class="col-sm-4">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/stacy.jpg" alt="cnada"/>
+<h3>Stacy</h3>
+<h5>Director of Sales  </h5>
+<p>InMoment has a culture where people can be apply their talents and abilities without reservation. There is a palpable energy within the company and an optimism for the future that is shared by both executives and employees. </p>
+</div>
+<div class="col-sm-4">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/john.jpg" alt="unkindom"/>
+<h3>John</h3>
+<h5>Text Analytics</h5>
+<p>I have worked for several companies in the valley, and InMoment has been my favorite by far. Everywhere I have worked touts a great culture, but InMoment truly delivers on this. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="canadabenifet_wrap">
+<div class="container">
+<h2>Canada Benefits</h2>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+<div class="row">
+<div class="col-sm-4">
+<ul>
+<li class="text-center">Extended Health Benefits</li>
+<li class="text-center">bonus plans</li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul>
+<li class="text-center">RSP Matching</li>
+<li class="text-center">Office Food and Snacks</li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul>
+<li class="text-center">Paid Holidays</li>
+<li class="text-center">Generous paid time off</li>
+</ul>
+</div>
+<div class="col-sm-12">
+<button>Apply Now</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="canadacareer-pg-bckgrnd padding-null">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/canadaPage-bckgrnd.png" alt="Inmoment Career" class="img-responsive canadacareer-page-bckgrnd">
+</section>
+
+<section class="canadacareer-page-inmoment-events">
+<div class="container">
+<h2>Inmoment Events</h2>
+<div class="col-sm-12 ">
+<div class="row">
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event1.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event2.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event3.png" alt="events">
+	</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12 ">
+<div class="row">
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event4.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event5.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event6.png" alt="events">
+	</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12 ">
+<div class="row">
+<div class="col-sm-4">
+	<div class="event-images">
+		<img class="img-responsive" src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event7.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img class="img-responsive" src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event8.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img class="img-responsive" src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event9.png" alt="events">
+	</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="comeworkwrap">
+<div class="container">
+<h2>Come work with us.</h2>
+<button>Apply Now</button>
+</div>
+</section>
+
+<?php get_footer(); ?>

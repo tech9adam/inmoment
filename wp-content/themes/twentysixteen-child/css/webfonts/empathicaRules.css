@@ -1,0 +1,155 @@
+@charset "utf-8";
+
+body {
+	background: #ebebec;
+	padding:0px;
+	margin:0px;
+    font-family: museo_sans500, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}
+
+a {
+	color: #317392;
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: #09afd4;
+	text-decoration: underline;
+}
+h1 {
+	font-family: museo_sans100, Verdana, Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    font-weight: normal;
+    color: #77bd43;
+    border-bottom: solid 2px #ebebec;
+}
+h2 {
+    font-size: 120%;
+    color: #717b82;
+}
+h3 {
+    font-size: 110%;
+}
+
+div.tablecontainer {
+	display: inline;
+	zoom: 1;
+	display: inline-block;
+	padding: 2px;
+	border: solid 1px #c0bfbf;
+	border-radius: 5px;
+}
+table, tr, td {
+	border-collapse: collapse;
+	vertical-align:top;
+}
+th {
+	background-color: #ebebec;
+	color: #707b81;
+	font-weight: normal;
+	font-family: museo_sans100, Verdana, sans-serif;
+	text-align: left;
+	font-size: 100%;
+	padding: 10px 15px;
+}
+th:first-child {
+	border-radius: 3px 0 0 3px;
+}
+th:last-child {
+	border-radius: 0 3px 3px 0;
+}
+
+td {
+	padding: 10px 15px;
+}
+td:first-child {
+	border-right: solid 1px #ebebec;
+}
+
+ol {
+	padding: 6px 0px 0px 40px;
+	margin: 0px;
+}
+
+/* CSS faux buttons */
+a.fauxButton {
+	background: #e67425;
+	border: solid 2px #bc5e27;
+	border-radius: 15px;
+	text-decoration: none;
+	font-size: 11pt;
+	color: #fff;
+	margin: 0 5px;
+	padding: 3px 20px;
+	outline: 0;
+	cursor: pointer;
+}
+
+a.fauxButton:hover {
+	background-color: #f28f49;
+}
+a.fauxButton:active {
+	background-color: #bc5e27;
+}
+a.fauxButton.disabled {
+	background-color: #b4b7bb;
+	border-color: #717b82;
+	cursor: default;
+}
+a.fauxButton.disabled:hover {
+	box-shadow: none;
+	text-shadow: none;
+}
+
+a.fauxButton.important {
+	background: #e67425;
+	border-color: #bc5e27;
+}
+a.fauxButton.important:hover {
+	background-color: #f28f49;
+}
+a.fauxButton.important:active {
+	background-color: #bc5e27;
+}
+
+#header {
+	background: #30383D;
+}
+#subheader {
+	width: 900px;
+	margin: 10px auto;
+	text-align: right;
+}
+#logo {
+	height: 30px;
+}
+#content {
+	width: 870px;
+	margin: 0 auto;
+	padding: 0 15px 10px;
+	border: solid 1px #e0e2e2;
+	border-radius: 5px;
+	background-color: #fff;
+	color: #666666;
+	
+}
+#note {
+	font-size: 11px;
+	font-style: italic;
+}
+
+#viewRecent {
+	margin: 40px 0;
+	padding: 0 20px;
+}
+#viewRecent a.fauxButton {
+	font-size: 110%;
+	font-weight: bold;
+	padding: 10px 30px;
+	border-radius: 30px;
+}
+
+#footer {
+	font-size: 80%;
+	color: #b3b3b3;
+}

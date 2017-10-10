@@ -1,0 +1,271 @@
+
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0 auto;
+  }
+  .container{ max-width:1322px !important; width:100%;}
+section {
+  
+  background:url(../images/background.jpg);
+  background-repeat:no-repeat;
+  background-position:top center;
+  background-size:cover;
+
+}
+.white{ color:#ffffff;}
+.yellow{ color:#fdb614;}
+.grey{ color:#707070;}
+.font-small{ font-size:43px;  font-family:"prometoregular"; }
+.font-medium{ font-size:76px; font-family:"prometoregular";}
+.font-large{font-size:98px; font-family:"prometoregular"; line-height:1;}
+
+.left-content h1 {
+  line-height: 1.2;
+  margin-top: 4em;
+  text-align: right;
+}
+.image-content image-1 {
+  margin: 0 auto;
+  width: 60%;
+}
+.logo-img img {
+  margin: 20px 0 0;
+  float:right;
+  }
+.right-content h1 {
+  margin: 55px 0 30px 0;
+}
+section {
+  padding: 18px 0;
+}
+.right-content h2 a:hover, .right-content h2 a:focus {
+  text-decoration: none;
+}
+.right-content h2 {
+  display: inline-block;
+  float: left;
+  font-family: "prometoregular";
+  font-size: 68px;
+  line-height: 1 !important;
+  margin-top: 0;
+}
+.right-content img {
+  display: inline-block;
+  float: left;
+  margin: 8px 0 0 10px;
+}
+footer{ background:#ffffff; padding:25px 0;}
+footer ul li {
+  display: inline;
+  padding: 0 15px;
+}
+footer ul {
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align:center;
+  padding:0;
+}
+.image-content .img-responsive.image-1 {
+  margin: 0 auto !important;
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1200px){
+.image-content .img-responsive.image-1 {
+  margin: 0 auto;
+  width: 45%;
+}
+.left-content h1 {
+  line-height: 1.2;
+  margin-top: 3em;
+}
+.right-content h1 {
+    margin: 60px 0 30px;
+}
+.logo-img img {
+  margin: 50px 0;
+}
+.font-small {
+  font-family: "prometoregular";
+  font-size: 39px;
+}
+.font-medium {
+  font-family: "prometoregular";
+  font-size: 70px;
+  line-height:1;
+}
+.font-large {
+  font-size: 85px;
+}
+.right-content h2 {
+  font-size: 60px;
+}
+.right-content img {
+   width: 110px;
+}
+section {
+  padding: 28px 0;
+}
+.logo-img img {
+  float: right;
+  width: 78%;
+}
+
+}
+@media screen and (max-width: 1199px) and (min-width: 992px){
+.image-content .image-1 {
+  width: 57%;
+}
+.right-content img {
+  display: inline-block;
+  float: left;
+  margin: 0 0 0 10px !important;
+  width: 22%;
+}
+.logo-img img {
+  float: right;
+  margin: 20px 0 0;
+  width: 75%;
+}
+}
+@media screen and (min-width: 992px){
+section .image-2 {
+  display: none;
+}
+}
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+.font-medium {
+  font-family: "prometoregular";
+  font-size: 51px;
+}
+.font-small {
+  font-family: "prometoregular";
+  font-size: 28px;
+}
+.font-large {
+  font-family: "prometoregular";
+  font-size: 79px;
+}
+.right-content h2 {
+  display: inline-block;
+  float: left;
+  font-family: "prometoregular";
+  font-size: 47px;
+}
+.right-content img {
+  display: inline-block;
+  float: left;
+  margin: 12px 0 0 10px;
+  }
+  .left-content h1 {
+  line-height: 1.4;
+  margin-top: 3.5em;
+  text-align: right;
+}
+footer ul {
+  padding: 0;
+  text-align: center;
+}
+}
+@media screen and (max-width: 991px) {
+.left-content h1 {
+  line-height: 1.2;
+  margin-top: 1.2em;
+  text-align: center;
+}
+section .image-1 {
+  display: none;
+}
+section .image-2 {
+  margin: 0 auto;
+  text-align: center;
+}
+.right-content {
+  text-align: center;
+}
+.right-content a {
+  display: table;
+  margin: 0 auto;
+  text-align: center;
+}
+footer ul {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding:  0 20px;
+  text-align: center;
+}
+.logo-img img {
+  float: none;
+  margin: 20px 0 0;
+  width: auto;
+}
+}
+@media screen and (max-width: 991px) and (min-width: 501px) {
+.font-medium {
+  font-family: "prometoregular";
+  font-size: 55px;
+}
+.font-small {
+  font-family: "prometoregular";
+  font-size: 30px;
+}
+.font-large {
+  font-family: "prometoregular";
+  font-size: 70px;
+}
+.right-content h2 {
+  display: inline-block;
+  float: left;
+  font-family: "prometoregular";
+  font-size: 35px;
+}
+.right-content img {
+   width: 70px;
+}
+.logo-img img {
+  margin: 50px  auto;
+  text-align: center;
+}
+}
+@media screen and (max-width: 500px) and (min-width: 320px) {
+.font-medium {
+  font-family: "prometoregular";
+  font-size: 36px;
+}
+.font-small {
+  font-family: "prometoregular";
+  font-size: 19px;
+}
+.left-content h1 {
+  line-height: 1.2;
+  margin: 0 0 1em 0;
+  text-align: center;
+}
+.font-large {
+  font-family: "prometoregular";
+  font-size: 45px;
+}
+.right-content h2 {
+  display: inline-block;
+  float: left;
+  font-family: "prometoregular";
+  font-size: 25px;
+}
+.right-content img {
+  display: inline-block;
+  float: left;
+  margin: 20px 0 0 10px;
+  width: 52px;
+}
+.logo-img img {
+  float: none;
+  margin: 35px auto;
+  width: 50%;
+}
+.right-content img {
+  margin: 0 0 0 10px;
+ 
+}
+	
+}

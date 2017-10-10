@@ -1,0 +1,211 @@
+<?php
+/*
+Template Name: inmoment4 Page
+*/
+get_header(); ?>
+<main>
+<section class="section-solution banner" style="height:1200px !important">
+   <img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/bg-inmoment4.jpg" alt="solution-bg" class="img-bg-banner img-responsive">
+    <div class="container-fluid">
+    <div class="col-md-12 banner-inmoment-text">
+    <div class="row">
+      <h5>Inmoment careers</h5>
+      <h1 class="Software-hading">UK Family</h1>
+	  <button class="inmomentapply">Apply Now </button>
+    </div>
+    </div>
+	<div class="row home-pattern"></div>
+    </div>
+  </section>
+  
+
+
+<section class="uktestimonilwrap">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 ">
+<h2>UK Employee Testimonials</h2>
+<div>
+<div class="col-sm-4">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/mandy.jpg" alt="unstates"/>
+<h3>Mandy</h3>
+<h5>Customer Success Manager</h5>
+<p>Coming from a strong retail insight background, InMoment has provided me with the opportunity to build on my previous experiences by giving me clients right for my profile. Working with the number 1 UK supermarket is giving me the chance to stretch my insight capability and develop. I'm thoroughly enjoying my role and the challenges it is providing me with.</p>
+</div>
+<div class="col-sm-4">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/jodi.jpg" alt="cnada"/>
+<h3>Jodi</h3>
+<h5>Marketing Manager</h5>
+<p>I have worked for several companies in the valley, and InMoment has been my favorite by far. Everywhere I have worked touts a great culture, but InMoment truly delivers on this.</p>
+</div>
+<div class="col-sm-4">
+<div class="col-sm-6">
+<div class="row">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/william.jpg" alt="unkindom"/>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="row">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/matthew.jpg" alt="unkindom"/>
+</div>
+</div>
+<div class="clearfix"></div>
+<h3>william — Matthew</h3>
+<h5>Customer Success Manager</h5>
+<p>Will and Matt work together on the hospitality sector of the EMEA InMoment team. Not only do they have a great working relationship, but enjoy daily games of table tennis over their lunch breaks. These kind of activities embody the great culture within the company; where everybody gets along, work together, have fun together and appreciate one another equally.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="ukbenifet_wrap">
+<div class="container">
+<h2>UK Benefits</h2>
+<div class="row">
+<div class="col-sm-10 col-sm-offset-1">
+<div class="row">
+<div class="benefit-list">
+<div class="col-md-12">
+<div class="row">
+<div class="col-sm-4">
+<div>
+<p>life assurance</p>
+</div>
+</div>
+<div class="col-sm-4">
+<div>
+<p>Office Food and Snacks</p>
+</div>
+</div>
+<div class="col-sm-4">
+<div>
+<p>Train/buss pass benefit plans</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12">
+<div class="row">
+<div class="col-sm-4">
+<div>
+<p>private medical and dental scheme</p>
+</div>
+</div>
+<div class="col-sm-4">
+<div>
+<p>bonus plans</p>
+</div>
+</div>
+<div class="col-sm-4">
+<div>
+<p>Bank holidays</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12">
+<div class="row">
+<div class="col-sm-4">
+<div>
+<p>pension scheme</p>
+</div>
+</div>
+<div class="col-sm-4">
+<div>
+<p>childcare voucher scheme</p>
+</div>
+</div>
+<div class="col-sm-4">
+<div>
+<p>Generous annual leave</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12">
+<button>Apply Now</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="ukcareer-pg-bckgrnd padding-null">
+<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/04/ukPage-bckgrnd.png" alt="Inmoment Career" class="img-responsive ukcareer-page-bckgrnd">
+</section>
+
+<section class="ukcareer-page-inmoment-events">
+<div class="container">
+<h2>Inmoment Events</h2>
+<div class="col-sm-12 ">
+<div class="row">
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event1.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event2.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event3.png" alt="events">
+	</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12 ">
+<div class="row">
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event4.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event5.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event6.png" alt="events">
+	</div>
+</div>
+</div>
+</div>
+<div class="col-sm-12 ">
+<div class="row">
+<div class="col-sm-4">
+	<div class="event-images">
+		<img class="img-responsive" src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event7.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img class="img-responsive" src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event8.png" alt="events">
+	</div>
+</div>
+<div class="col-sm-4">
+	<div class="event-images">
+		<img class="img-responsive" src="http://inmoment.staging.wpengine.com/wp-content/uploads/2017/01/event9.png" alt="events">
+	</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="comeworkwrap">
+<div class="container">
+<h2>Come work with us.</h2>
+<button>Apply Now</button>
+</div>
+</section>
+
+<?php get_footer(); ?>
